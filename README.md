@@ -1,4 +1,4 @@
-# Concrete Strength Prediction
+# 🍏 Concrete Strength Prediction
 
 This repository contains the work done to predict the compressive strength of concrete using regression models, including **Decision Tree Regressor** and **Support Vector Regression (SVR)**. **Grid Search** was employed for hyperparameter optimization, enhancing the performance of these models.
 
